@@ -7,4 +7,4 @@
 &emsp;With services and DAO.</br>
 <b>TaskTrackerWithBootAndDataJPA:</b></br>
 &emsp;As TaskTracker, but using Spring Boot and Spring Data JPA instead of services and DAO.</br>
-&emsp;Not finished.</br>
+&emsp;Not finished non admin side(same as in TaskTracker).</br>
